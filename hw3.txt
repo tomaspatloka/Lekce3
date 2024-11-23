@@ -1,5 +1,5 @@
 øádek 1
 øádek 2
-int a = 1 + 2
+int a = 1 + 2 + 6
 øádek 4
 øádek 5
